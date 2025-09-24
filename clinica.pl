@@ -1,0 +1,2 @@
+rampago.
+perro(rampago).
